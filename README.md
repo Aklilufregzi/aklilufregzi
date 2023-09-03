@@ -21,10 +21,13 @@ I'm a Full-Stack Developer with extensive experience in building web and mobile 
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilufregzi&show_icons=true)](https://github.com/your_github_username)
+[![Aklilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilufregzi&show_icons=true)](https://github.com/aklilufregzi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklilufregzi&layout=compact)](https://github.com/aklilufregzi)
 
 ## 📫 How to reach me:
 
 - Email: aklilu2424@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/aknonymous)
-- Portfolio: https://aklilu.tech
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aknonymous)
+- Portfolio: [Portfolio](https://aklilu.tech)
+- Upwork: [Upwork Profile](https://upwork.com/freelancers/aklilu)
