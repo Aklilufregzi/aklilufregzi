@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Aklilu 👋
 
 I'm a Full-Stack Developer with extensive experience in building web and mobile applications. Passionate about code quality, best practices, and software architecture.
 
@@ -21,11 +21,10 @@ I'm a Full-Stack Developer with extensive experience in building web and mobile 
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true)](https://github.com/your_github_username)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilufregzi&show_icons=true)](https://github.com/your_github_username)
 
 ## 📫 How to reach me:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)
-- Portfolio: [Your Portfolio](https://www.yourportfolio.com)
-
+- Email: aklilu2424@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/aknonymous)
+- Portfolio: https://aklilu.tech
