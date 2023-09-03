@@ -19,9 +19,6 @@ I'm a Full-Stack Developer with extensive experience in building web and mobile 
 - Explore more about cloud-native solutions using Kubernetes and Docker.
 - Enhance my skills in Rust for system-level programming.
 
-## 📈 GitHub Stats
-
-[![Aklilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilufregzi&show_icons=true)](https://github.com/aklilufregzi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklilufregzi&layout=compact)](https://github.com/aklilufregzi)
 
