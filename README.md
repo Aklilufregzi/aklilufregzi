@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aklilu Berihun</h1>
 <h3 align="center">Fullstack Web & Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aklilufregzi&label=Profile%20views&color=0e75b6&style=flat" alt="Aklilufregzi" /> </p>
-
-<br/>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aklilufregzi&theme=gruvbox&margin-w=15" alt="Aklilufregzi" /></a> </p>
 <br/>
-<p align="left"> <a href="https://twitter.com/k4l3ba" target="blank"><img src="https://img.shields.io/twitter/follow/k4l3ba?logo=twitter&style=for-the-badge" alt="k4l3ba" /></a> </p>
-<br/>
+
 - 🌱 I’m currently learning **Dart, C#, Rust and Typescript**
 - 👨‍💻 All of my projects are available [here](https://github.com/Aklilufregzi?tab=repositories)
 - 💬 Ask me about **Angular, Ionic, Firebase, Node.js, MongoDB, Solidity, Telegram Bot**
